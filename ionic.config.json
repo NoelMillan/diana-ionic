@@ -1,0 +1,7 @@
+{
+  "name": "diana-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "diana-ionic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
